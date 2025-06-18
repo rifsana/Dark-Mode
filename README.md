@@ -12,8 +12,6 @@ A simple Android application that demonstrates switching between light and dark 
 - [Build](#build)
 - [Run](#run)
 - [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [License](#license)
 
 ---
 
