@@ -30,5 +30,5 @@ This project is a simple Android app built using Kotlin and Android Studio. The 
 ### Clone the repository
 
 ```bash
-git clone <https://github.com/rifsana/Dark-Mode.git>
-cd <Dark-Mode>
+git clone https://github.com/rifsana/Dark-Mode.git
+cd Dark-Mode
