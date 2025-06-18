@@ -4,17 +4,6 @@ A simple Android application that demonstrates switching between light and dark 
 
 ---
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Build](#build)
-- [Run](#run)
-- [Project Structure](#project-structure)
-
----
-
 ## About
 
 This project is a simple Android app built using Kotlin and Android Studio. The app allows users to toggle between light and dark modes using buttons.
